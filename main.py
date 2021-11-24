@@ -6,3 +6,4 @@ if unknownNumber >= 0:
   print ("It's positive.")
 else:
   print("It's negative.")
+#Compares the numbers to see if they are above or under zero
